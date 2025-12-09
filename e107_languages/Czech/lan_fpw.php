@@ -37,7 +37,7 @@ define("LAN_FPW13", "prosím dodržujte pokyny v emailu k potvrzení Vašeho hes
 define("LAN_FPW14", "požadavek odeslán někým z následujíci IP");
 define("LAN_FPW15", "Toto již není Vaše heslo. Musíte dokončit změnu hesla ve Vašem emailu.");
 define("LAN_FPW16", "Pokud jste NEPOŽÁDAL/A o změnu Vašeho hesla, tak prosím tento email ignorujte");
-define("LAN_FPW17", "Odkaz (URL) bude funkční jen 48 hodin.");
+define("LAN_FPW17", "Odkaz (URL) bude funkční jen 10 minut.");
 define("LAN_FPW18", "Obnovení hesla požadováno");
 define("LAN_FPW19", "E-mail se nepodařilo odeslat");
 define("LAN_FPW20", "Odeslání emailu bylo úspěšné");
