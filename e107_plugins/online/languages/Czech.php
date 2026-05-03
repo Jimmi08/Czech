@@ -13,25 +13,27 @@
 +---------------------------------------------------------------+
 */
 
-define("LAN_LASTSEEN_1", "Menu poslední návštěvy");
-define("LAN_ONLINE_TRACKING_MESSAGE", "On-line sledování uživatelů je v současné době zakázán, povolte ji [zde]");
-define("LAN_ONLINE_1", "Hostů:");
-define("LAN_ONLINE_2", "Uživatelů:");
-define("LAN_ONLINE_3", "Na této stránce:");
+ 
+define("LAN_LASTSEEN_1", "Menu Naposledy viděno");
+define("LAN_ONLINE_TRACKING_MESSAGE", "Sledování online uživatelů není aktuálně povoleno, povolte ho prosím [zde]");
+define("LAN_ONLINE_1", "Počet hostů: ");
+define("LAN_ONLINE_2", "Počet členů: ");
+define("LAN_ONLINE_3", "Na této stránce: ");
 define("LAN_ONLINE_4", "Online");
-define("LAN_ONLINE_6", "Nejnovější uživatel:");
-define("LAN_ONLINE_7", "zobrazení");
-define("LAN_ONLINE_8", "Nejvíce online:");
-define("LAN_ONLINE_9", "na");
-define("LAN_ONLINE_10", "Online nabídka");
-define("LAN_ONLINE_11", "Celkem registrovaných uživatelů:");
-define("LAN_ONLINE_ADMIN_1", "menu posledních návštěv");
-define("LAN_ONLINE_ADMIN_2", "Titulek menu posledních návštěv");
+define("LAN_ONLINE_5", "");
+define("LAN_ONLINE_6", "Nejnovější člen: ");
+define("LAN_ONLINE_7", "prohlíží");
+define("LAN_ONLINE_8", "nejvíce online: ");
+define("LAN_ONLINE_9", "dne: ");
+define("LAN_ONLINE_10", "Menu Online");
+define("LAN_ONLINE_11", "Celkový počet registrovaných členů: ");
+define("LAN_ONLINE_ADMIN_1", "menu Naposledy viděno");
+define("LAN_ONLINE_ADMIN_2", "Nadpis menu Naposledy viděno");
 define("LAN_ONLINE_ADMIN_3", "Počet zobrazených záznamů");
-define("LAN_ONLINE_ADMIN_4", "online nabídka");
-define("LAN_ONLINE_ADMIN_5", "Titulek menu online");
-define("LAN_ONLINE_ADMIN_6", "Zobrazit seznam uživatelů online?");
-define("LAN_ONLINE_ADMIN_7", "Zobrazit rozšířený seznam uživatelů online?");
-define("LAN_ONLINE_ADMIN_8", "Zobrazit čárkami oddělený seznam uživatelů.");
-define("LAN_ONLINE_ADMIN_9", "Zobrazí seznam uživatelů prohlížejících tuto stránku.");
+define("LAN_ONLINE_ADMIN_4", "online menu");
+define("LAN_ONLINE_ADMIN_5", "Nadpis online menu");
+define("LAN_ONLINE_ADMIN_6", "Zobrazit seznam členů online");
+define("LAN_ONLINE_ADMIN_7", "Zobrazit rozšířený seznam členů online");
+define("LAN_ONLINE_ADMIN_8", "Zobrazit seznam členů oddělený čárkami");
+define("LAN_ONLINE_ADMIN_9", "Zobrazit seznam členů prohlížejících některou stránku.");
 define("LAN_ONLINE_ADMIN_10", "Zobrazit hosty online.");
